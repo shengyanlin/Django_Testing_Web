@@ -39,6 +39,7 @@ To run this web application locally, use the following command:
 ```bash
 python manage.py runserver
 ```
+<<<<<<< HEAD
 
 Your web application will be running at `http://127.0.0.1:8000/`.
 
@@ -55,3 +56,9 @@ ngrok http <number-of-your-port>
 Replace `<number-of-your-port>` with the port number your server is running on.
 
 That's it! You're all set to run the application. Enjoy developing!
+=======
+## 2.How to run this web for everyone to accees
+```
+ngrok http <number of your port>
+```
+>>>>>>> c2dc8c5f2238ba6bc153b4bb95d88fd8609ef743
