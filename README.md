@@ -2,7 +2,7 @@
 ```
 python manage.py runserver
 ```
-## 2.How to run this web which everyone is able to accees
+## 2.How to run this web for everyone to accees
 ```
 ngrok http <number of your port>
 ```
